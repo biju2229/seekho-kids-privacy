@@ -3,7 +3,7 @@
 **Effective Date:** April 1, 2026  
 **Developer:** Vijaya Pal Dhaka  
 **App Name:** Seekho Kids  
-**Contact:** [your email here]
+**Contact:** bijudhaka95@gmail.com
 
 ---
 
@@ -76,5 +76,5 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 If you have any questions about this Privacy Policy, please contact us at:
 
 **Developer:** Vijaya Pal Dhaka  
-**Email:** [your-email@gmail.com]  
+**Email:** bijudhaka95@gmail.com  
 **App:** Seekho Kids on Google Play Store
